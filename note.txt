@@ -1,0 +1,7 @@
+-fix error update product, pull and replace product in categoryModel
+
+1.Get info user:id, userName, email, phoneNumber, linkAvatar, cart, orders, deliveryAddress
+2.Get product by category
+3.CRUD cart
+4.Buy products
+5.Get orders by uid
